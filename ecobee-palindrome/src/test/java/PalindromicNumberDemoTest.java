@@ -8,5 +8,6 @@ public class PalindromicNumberDemoTest extends TestCase {
 		assertFalse(PalindromicNumberDemo.isPalindrome("123"));
 		assertTrue(PalindromicNumberDemo.isPalindrome("100010001"));
 		assertFalse(PalindromicNumberDemo.isPalindrome("10001000100"));
+		assertFalse(PalindromicNumberDemo.isPalindrome("10001000102"));
 	}
 }
