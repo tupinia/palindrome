@@ -3,7 +3,7 @@ import junit.framework.TestCase;
 public class PalindromicNumberDemoTest extends TestCase {
 
 	/**
-	 * Test unit for palindrome
+	 * Test unit for palindrome...
 	 */
 	public void testIsPalindrome() {
 		
